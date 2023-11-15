@@ -1327,7 +1327,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d5e43c039122914eb10dbaa79ad1fad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hammerspeed: 20
+  hammerSpeed: 20
+  returnSpeed: 10
+  returnRange: 999999
   playerHand: {fileID: 67404927}
 --- !u!1 &832575517
 GameObject:
