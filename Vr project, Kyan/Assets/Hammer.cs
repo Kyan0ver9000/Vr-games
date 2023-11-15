@@ -19,7 +19,6 @@ public class Hammer : MonoBehaviour
         rb = GetComponent<Rigidbody>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         switch (state)
@@ -53,7 +52,6 @@ public class Hammer : MonoBehaviour
 
             default: 
                 break;
-            
         }   
     }
 
